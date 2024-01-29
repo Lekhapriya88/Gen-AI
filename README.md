@@ -1,8 +1,8 @@
 # Semantic Search
-Overview
+##Overview
 In today's fast-paced business environment, solutioners are challenged by the need to quickly understand and respond to RFPs. The RFP Analyzer, enhanced with our Generative AI Semantic Search Engine, provides a sophisticated solution to identify straightforward requirements and recognize gaps in proposed products, services, and components.
 
-Problem Statement
+##Problem Statement
 Sanjay, a solutioner, faces the challenge of responding to a complex RFP within a tight deadline. The technical areas required are obscure, and the team's knowledge is somewhat outdated. This scenario necessitates a high-quality solution that is both timely and accurate.
 
 Solution
