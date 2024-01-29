@@ -29,6 +29,6 @@ Query 4: "Capability to retain past years’ data (up to 5 years)."
 Quality of Responses
 The enhanced RFP Analyzer was tested with various queries from the RFP, demonstrating high-quality, accurate responses, supporting its utility in RFP analysis.
 
-Deployment of RFP Analyzer for Sustainability
+### Deployment of RFP Analyzer for Sustainability
 
 Instructions for deploying the RFP Analyzer, including the ingestion of relevant documents and setup of the query environment, are provided. The tool is adaptable to various domains, ensuring wide applicability.
