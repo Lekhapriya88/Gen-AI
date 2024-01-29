@@ -1,5 +1,5 @@
-# Semantic Search
-Overview
+# RFP Analyzer with Semantic Search
+### Overview
 
 In today's fast-paced business environment, solutioners are challenged by the need to quickly understand and respond to RFPs. The RFP Analyzer, enhanced with our Generative AI Semantic Search Engine, provides a sophisticated solution to identify straightforward requirements and recognize gaps in proposed products, services, and components.
 
